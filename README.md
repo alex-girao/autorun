@@ -1,2 +1,2 @@
 # autorun
-Exemplo de Aplicaç~ao Android iniciando automaticamente após o boot
+Exemplo de Aplicação Android iniciando automaticamente após o boot
